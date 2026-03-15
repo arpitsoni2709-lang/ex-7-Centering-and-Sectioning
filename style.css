@@ -1,0 +1,82 @@
+html{
+    background-color: rgb(204, 197, 193);
+}
+ul{
+    margin: 0;
+}
+.wrapper {
+background-color:aquamarine;
+margin: auto;
+padding: 10px;
+}
+.wrapper-article {
+    background-color:rgb(216, 112, 187);
+     margin: auto;
+     margin-top:auto;
+    padding: 20px
+}
+
+.site-header {
+    background-color: blueviolet;
+    
+}
+.wrapper-header {
+    margin: auto;
+    max-width: 600px;
+    padding: 20px;
+}
+.main {
+    background-color: rgb(237, 237, 109);
+ 
+}
+.wrapper-section {
+    margin: auto;
+    max-width: 600px;
+    padding-top: 10px;
+}
+
+.About {
+    margin: auto;
+    max-width: 600px;
+}
+
+.academics {
+    background-color: rgb(236, 236, 23);
+    padding: 15px;;
+}
+
+.site-section {
+    background-color: rgb(236, 236, 23);
+}
+
+.site-section-E {
+    background-color: rgb(236, 236, 23);
+}
+
+.site-aside {
+    background-color: rgb(242, 124, 242);
+}
+.site-h2 {
+    margin: auto;
+    max-width: 600px;
+    padding: 20px;
+    color: blueviolet;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.site-p {
+    margin: auto;
+    max-width: 600px;
+    padding: 20px;
+    color: blueviolet;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.site-footer-U {
+    background-color:aqua;
+
+}
+
+.wrapper-footer {
+    max-width: 500px;
+    margin: auto;
+}
